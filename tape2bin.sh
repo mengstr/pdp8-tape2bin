@@ -9,7 +9,7 @@
 #
 # Example usage:
 # ../Tools/pal test.pa
-# ./bin2ram.sh < test.bin > test.eep
+# ./tape2bin.sh < test.bin > test.eep
 #
 #
 #--------------------------------------------------------------------------
