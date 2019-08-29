@@ -117,7 +117,7 @@ for ((p=0; p<pages; p++)); do
 		echo $sPage
 		sPage=""
 	fi
-        printf "%04o - " $address
+        printf "%04o - " $((address-8))
    	echo $sRow
    fi
 
